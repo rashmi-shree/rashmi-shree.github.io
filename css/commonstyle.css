@@ -1,0 +1,78 @@
+.navbar{
+    background-color: black;
+    height: 6rem;
+}
+.active-pink-2 input[type=text]:focus:not([readonly]) {
+    border-bottom: 1px solid #f48fb1;
+    box-shadow: 0 1px 0 0 #f48fb1;
+}
+  .active-pink input[type=text] {
+    border-bottom: 1px solid #f48fb1;
+    box-shadow: 0 1px 0 0 #f48fb1;
+}
+.shipping_details{
+    /* border: 2px solid white; */
+    color: white;
+    width: 2rem;
+    font-size: 87%;
+    margin-top: 3.9%;
+}
+.login_details{
+    /* border: 2px solid white; */
+    margin-top: 3.9%;
+    margin-left: 34%;
+    margin-right: 0%;
+    width: 18rem;
+}
+.search_here{
+    /* border: 2px solid white; */
+    margin-top: 3.9%;
+    margin-left: 3%;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: white;}
+.a{
+    display: flex;
+}
+.navbar-toggler-icon{
+    color: white;
+}
+.hamburger{
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 6px 0;
+}
+hr, .c{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.home_menu{
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.home_menu ul li a {
+    color: black;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: black;
+    background-color: white;
+    font-weight: 600;
+}
+.carousel-item{
+    /* border: 2px solid black; */
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.image_heading{
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+.image_gallery{
+    margin-top: 2%;
+}
+.cost{
+    /* border: 2px solid black; */
+    padding-left: 41%;
+}
